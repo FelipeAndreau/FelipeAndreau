@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/felipeandreau](https://www.linkedin.com/in/felipe-andreau-722aa5258/)" title="Perfil en LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="[https://stackoverflow.com/](https://leetcode.com/u/FelipeAndreau/)" title="Perfil en Leetcode"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.linkedin.com/in/felipe-andreau-722aa5258/" title="Perfil en LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/FelipeAndreau/" title="Perfil en Leetcode"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
 </h5>
 <br>
 
