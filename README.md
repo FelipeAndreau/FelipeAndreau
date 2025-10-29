@@ -7,10 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/felipeandreau" title="Perfil en LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/" title="Perfil en HackerRank"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/" title="Perfil en Stack Overflow"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/" title="Perfil en Instagram"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="[https://www.linkedin.com/in/felipeandreau](https://www.linkedin.com/in/felipe-andreau-722aa5258/)" title="Perfil en LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="[https://stackoverflow.com/](https://leetcode.com/u/FelipeAndreau/)" title="Perfil en Leetcode"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 
