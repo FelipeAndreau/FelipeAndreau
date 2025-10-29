@@ -73,21 +73,3 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipeandreau&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-<h2 align="center">👨‍💻 Repositorios Destacados 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/felipeandreau/AnalisisYDisenoSistemas" title="Diseño de Sistemas"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeandreau&repo=AnalisisYDisenoSistemas&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/felipeandreau/OCL-GRASP-Practicas" title="OCL & GRASP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeandreau&repo=OCL-GRASP-Practicas&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/felipeandreau/Infinity-Platform" title="Infinity Platform"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeandreau&repo=Infinity-Platform&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/felipeandreau/Surveillance-Agent" title="Surveillance Agent"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeandreau&repo=Surveillance-Agent&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/felipeandreau?tab=repositories" title="Ver todos los repositorios">🔎 Ver más 🔍</a>
-</h4>
